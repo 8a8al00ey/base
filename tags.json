@@ -9,10 +9,10 @@
     },
     {
       "name": "alpine",
-      "version": "20220718230843",
-      "commit": "9f8852e",
+      "version": "20220809181025",
+      "commit": "0bd42fc",
       "upstream": "Alpine",
-      "lastUpdated": "2022-07-18T23:11:12.137Z"
+      "lastUpdated": "2022-08-09T18:11:45.788Z"
     }
   ],
   "pulls": 3602636,
