@@ -1,4 +1,5 @@
 {
+  "description": "Ubuntu 20.04",
   "upstream_image": "ubuntu",
   "upstream_tag": "20.04",
   "upstream_digest_amd64": "sha256:a0a45bd8c6c4acd6967396366f01f2a68f73406327285edc5b7b07cb1cf073db",
