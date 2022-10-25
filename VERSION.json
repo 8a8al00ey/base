@@ -2,6 +2,6 @@
   "description": "Ubuntu 20.04",
   "upstream_image": "ubuntu",
   "upstream_tag": "20.04",
-  "upstream_digest_amd64": "sha256:e722c7335fdd0ce77044ab5942cb1fbd2b5f60d1f5416acfcdb0814b2baf7898",
+  "upstream_digest_amd64": "sha256:b25ef49a40b7797937d0d23eca3b0a41701af6757afca23d504d50826f0b37ce",
   "upstream_digest_arm64": "sha256:9488eba63bece0e05cd2cd84ce4dbe2710c8666f10259bbb9ebe55c4ff4f5704"
 }
